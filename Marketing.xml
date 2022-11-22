@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <OrdNO>345</OrdNO>
+    <Toys_SoldCity>900</Toys_SoldCity>
+    <FIELD3>Austin</FIELD3>
+    <EmpNo>5</EmpNo>
+  </row>
+  <row>
+    <OrdNO>419</OrdNO>
+    <Toys_SoldCity>1250</Toys_SoldCity>
+    <FIELD3>New York</FIELD3>
+    <EmpNo>34</EmpNo>
+  </row>
+  <row>
+    <OrdNO>208</OrdNO>
+    <Toys_SoldCity>600</Toys_SoldCity>
+    <FIELD3>Seattle</FIELD3>
+    <EmpNo>48</EmpNo>
+  </row>
+</root>

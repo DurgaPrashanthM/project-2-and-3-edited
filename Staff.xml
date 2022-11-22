@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Emp_NO>5</Emp_NO>
+    <Shop_Name>LEGO store</Shop_Name>
+    <Salary>2500</Salary>
+    <City>Houston</City>
+  </row>
+  <row>
+    <Emp_NO>34</Emp_NO>
+    <Shop_Name>Toys R US</Shop_Name>
+    <Salary>1800</Salary>
+    <City>Chicago</City>
+  </row>
+  <row>
+    <Emp_NO>48</Emp_NO>
+    <Shop_Name>Archie McPhee</Shop_Name>
+    <Salary>3200</Salary>
+    <City>Atlanta</City>
+  </row>
+</root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Frozen_NO>F34</Frozen_NO>
+    <Selling_Price>230</Selling_Price>
+    <Net_Amt>200600</Net_Amt>
+  </row>
+  <row>
+    <Frozen_NO>F45</Frozen_NO>
+    <Selling_Price>150</Selling_Price>
+    <Net_Amt>320000</Net_Amt>
+  </row>
+  <row>
+    <Frozen_NO>F21</Frozen_NO>
+    <Selling_Price>180</Selling_Price>
+    <Net_Amt>180450</Net_Amt>
+  </row>
+</root>

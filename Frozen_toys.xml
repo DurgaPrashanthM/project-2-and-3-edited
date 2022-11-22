@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Frozen_NO>F34</Frozen_NO>
+    <Frozen_Name>Anna</Frozen_Name>
+    <No_of_toys>230</No_of_toys>
+  </row>
+  <row>
+    <Frozen_NO>F45</Frozen_NO>
+    <Frozen_Name>Arnadelle</Frozen_Name>
+    <No_of_toys>740</No_of_toys>
+  </row>
+  <row>
+    <Frozen_NO>F21</Frozen_NO>
+    <Frozen_Name>kristoff</Frozen_Name>
+    <No_of_toys>560</No_of_toys>
+  </row>
+</root>

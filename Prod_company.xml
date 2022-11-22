@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Prod_NO>12</Prod_NO>
+    <Prod_Name>Elsa</Prod_Name>
+    <Rate>250</Rate>
+  </row>
+  <row>
+    <Prod_NO>23</Prod_NO>
+    <Prod_Name>Olaf</Prod_Name>
+    <Rate>430</Rate>
+  </row>
+  <row>
+    <Prod_NO>39</Prod_NO>
+    <Prod_Name>reindeer-sven</Prod_Name>
+    <Rate>180</Rate>
+  </row>
+</root>
